@@ -1,0 +1,65 @@
+.post-date
+{
+	background:grey;
+	padding:4px;
+	margin:3px 0;
+	display:block;
+}
+
+.clscolor
+{
+	color:blue;
+}
+
+.btn-default
+{
+	color:blue;
+	background-color:grey;
+	border-radius:10%;
+}
+
+hr
+{
+	background-color:grey;
+}
+
+.post-thumb
+{
+	width:100%;
+	width:150px;
+	height:150px;
+}
+
+.pagination-links
+{
+	margin:30px 0;
+
+}
+
+.pagination-links strong
+{
+	padding: 10px 12px;
+	margin:5px;
+	background:lightgrey;
+	border: 1px #ccc solid;
+}
+
+
+a.pagination-link
+{
+	padding: 10px 12px;
+	margin:5px;
+	background:lightgrey;
+	border: 1px #ccc solid;
+}
+
+.cat-delete
+{
+	display:inline;
+	background:none;
+}
+
+.btn-background
+{
+	border:none;
+}
